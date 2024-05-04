@@ -8,12 +8,30 @@ const localQuotes = [
     author: "Yogi Berra",
   },
   {
-    text: "26.	It is possible for mi not to be programming but it disturbs mi especially when I talk about it because it means am null, I feel so useless.",
+    text: "It is possible for mi not to be programming but it disturbs mi especially when I talk about it because it means am null, I feel so useless.",
+    author: "Mwakanemela Kayange",
+  },
+
+  {
+    text: "Writing a program does not solve a problem, it simply automates the manual steps you would take",
     author: "Mwakanemela Kayange",
   },
   {
     text: "A house divided against itself cannot stand.",
     author: "Abraham Lincoln",
+  },
+  {
+    text: "If you do not know what is on each page a page number is not important or not much use",
+    autho: "Mwakanemela Kayange",
+  },
+  {
+    text: "As a java developer(Software Engineer) I know what to do next, especially when I encounter an error.",
+    autho: "Mwakanemela Kayange",
+  },
+
+  {
+    text: "",
+    autho: "Mwakanemela Kayange",
   },
   {
     text: "Difficulties increase the nearer we get to the goal.",
@@ -536,6 +554,14 @@ const localQuotes = [
     author: "William Shakespeare",
   },
   {
+    text: "PHP: positively happy people.",
+    autho: "Mwakanemela Kayange",
+  },
+  {
+    text: "When creating a web page that means you are dealing with content, presentation and behavior.",
+    autho: "Mwakanemela Kayange",
+  },
+  {
     text: "A really great talent finds its happiness in execution.",
     author: "Johann Wolfgang von Goethe",
   },
@@ -554,5 +580,17 @@ const localQuotes = [
   {
     text: "You can do what's reasonable or you can decide what's possible.",
     author: null,
+  },
+  {
+    text: "Always try to put the majority of styling into one main style sheet.",
+    autho: "Mwakanemela Kayange",
+  },
+  {
+    text: "Minutes spent reading and understanding code will help to appreciate the simplicity and overall structure of a program",
+    autho: "Mwakanemela Kayange",
+  },
+  {
+    text: "Do not be intimidated by the size of program.",
+    autho: "Mwakanemela Kayange",
   },
 ];
