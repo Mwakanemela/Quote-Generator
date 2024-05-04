@@ -8,6 +8,10 @@ const localQuotes = [
     author: "Yogi Berra",
   },
   {
+    text: "26.	It is possible for mi not to be programming but it disturbs mi especially when I talk about it because it means am null, I feel so useless.",
+    author: "Mwakanemela Kayange",
+  },
+  {
     text: "A house divided against itself cannot stand.",
     author: "Abraham Lincoln",
   },
